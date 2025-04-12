@@ -1,6 +1,6 @@
 # 🎮 CS2 练习配置文件
 
-[🌐 English Version](../readme_en.md)
+[🌐 English Version](../README_EN.md)
 
 **精心制作的 `config` 文件**，专为提升你的跑图体验而优化！  
 
