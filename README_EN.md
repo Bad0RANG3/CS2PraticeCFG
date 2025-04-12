@@ -1,5 +1,7 @@
 # 🎮 CS2 Practice Configuration File
 
+[🔙 返回中文版](README.md)
+
 **Expertly crafted `config` file** designed to enhance your training experience!  
 
 ---
@@ -47,4 +49,3 @@
 - Combine with `bot_stop 1` for static target practice
 - Use noclip to study map geometry
 
-[🔙 Return to Chinese Version](.readme.md)  <!-- Link to your Chinese version -->
