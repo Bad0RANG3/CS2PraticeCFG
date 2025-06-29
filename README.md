@@ -35,7 +35,7 @@
 
 ---
 
-## � 使用说明
+## 📋 使用说明
 1. 将配置文件放入 `Counter-Strike Global Offensive\game\csgo\cfg` 目录
 2. 启动游戏后通过控制台执行配置
 3. 建议配合离线练习模式使用
